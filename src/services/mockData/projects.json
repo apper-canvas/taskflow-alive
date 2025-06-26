@@ -1,0 +1,42 @@
+[
+  {
+    "id": "inbox",
+    "name": "Inbox",
+    "color": "#6B7280",
+    "icon": "Inbox",
+    "order": 0,
+    "taskCount": 0
+  },
+  {
+    "id": "1",
+    "name": "Work Projects",
+    "color": "#DC4C3F",
+    "icon": "Briefcase",
+    "order": 1,
+    "taskCount": 3
+  },
+  {
+    "id": "2",
+    "name": "Development",
+    "color": "#3B82F6",
+    "icon": "Code",
+    "order": 2,
+    "taskCount": 4
+  },
+  {
+    "id": "3",
+    "name": "Marketing",
+    "color": "#F59E0B",
+    "icon": "TrendingUp",
+    "order": 3,
+    "taskCount": 1
+  },
+  {
+    "id": "4",
+    "name": "Personal",
+    "color": "#22C55E",
+    "icon": "User",
+    "order": 4,
+    "taskCount": 2
+  }
+]
