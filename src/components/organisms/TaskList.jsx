@@ -2,8 +2,7 @@ import React, { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import TaskItem from "@/components/organisms/TaskItem";
 import TaskDetailModal from "@/components/organisms/TaskDetailModal";
-import ApperIcon from "@/components/atoms/ApperIcon";
-
+import ApperIcon from "@/components/ApperIcon";
 const TaskList = ({ 
   tasks = [], 
   loading = false, 
